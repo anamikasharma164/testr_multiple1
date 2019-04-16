@@ -1,0 +1,14 @@
+{
+  "name": "mockexample1",
+  "version": "1.0.0",
+  "description": "mock example",
+  "main": "controller.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "author": "yaswanth",
+  "license": "ISC"
+}
